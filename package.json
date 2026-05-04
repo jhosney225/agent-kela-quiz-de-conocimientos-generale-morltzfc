@@ -1,0 +1,6 @@
+{
+  "name": "agent-kela-quiz-de-conocimientos-generale-morltzfc",
+  "version": "1.0.0",
+  "description": "Proyecto de Kela [Gen6]: quiz de conocimientos generales con puntuacion",
+  "main": "index.js"
+}
